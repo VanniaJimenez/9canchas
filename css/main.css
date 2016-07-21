@@ -1,0 +1,13 @@
+#verde {width: 900px; height: 400px; background-color: #90BE6D}
+.linea {margin: 20px 20px 20px 20px;display:inline-block;
+       height: 350px; width:850px; border:solid; border-color:white;
+      }
+.porteria1 {width:80px; height:150px; border:solid;
+          border-color:white;bottom:400px;}
+.abs {position: absolute;}
+.porteria2{left:798px;}
+.centro {width:160px;height:160px;border:solid;
+          border-color:white;bottom:400px; left:370px;border-radius:80%;}
+.bola1 {top:75px;right:800px;}
+.bola2{top:270px;left:770px;}
+.bola3 {top:150px;left:105px;}
